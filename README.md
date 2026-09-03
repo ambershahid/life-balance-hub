@@ -1,5 +1,8 @@
-## 📸 Screenshot
 
+## 📸 Screenshot
+c:\Users\User\Pictures\Screenshots\New folder\life balance hub (1).png
+
+![Life Balance Hub](assets/lifebalancehup.png)
 <div align="center">
   <img src="assets/lifebalancehup.png" alt="Life Balance Hub Dashboard" width="600"/>
 </div>
