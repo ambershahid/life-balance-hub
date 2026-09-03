@@ -25,7 +25,7 @@ Built 100% with **Lovable AI** using a single prompt. Proof that you don't need 
 
 ### 🎥 Demo Video
 <!-- Upload your demo video to GitHub and replace the link below -->
-https://github.com/TUMHARA-USERNAME/life-balance-hub/assets/DEMO-VIDEO-LINK.mp4
+https://www.linkedin.com/posts/amber-shahid-684874350_buildinpublic-frontend-vercel-activity-7491816684404645888-Fgi_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexdcQB64WadUaxFz6H3bGdWAAFG0bEMLw
 
 ---
 
@@ -72,12 +72,7 @@ This entire app was built using **AI + Prompt Engineering**
 
 Consistency > Perfection
 
----
 
-## 📸 Screenshots
-
-
----
 
 ## 💡 The Idea Behind It
 
@@ -100,9 +95,8 @@ The goal: Make wellness simple, visual, and consistent.
 
 ## 🤝 Connect With Me
 
-Built with ❤️ by me
 
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/ambershahid)  
+**LinkedIn**: https://www.linkedin.com/in/amber-shahid
 
 
 If you found this helpful, give it a ⭐ on GitHub!
